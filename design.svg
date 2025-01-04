@@ -37,7 +37,7 @@
   </defs>
   <g id="Page_1_1" data-name="Page 1 – 1" clip-path="url(#clip-Page_1_1)">
     <rect width="1920" height="1764" fill="#fff"/>
-    <rect id="Trustport_-_Car_Dealer_Website_Template" data-name="Trustport - Car Dealer Website Template" width="1920" height="7051" style="isolation: isolate"/>
+    <path id="Trustport_-_Car_Dealer_Website_Template" data-name="Trustport - Car Dealer Website Template" d="M0,0H1920V7051H0Z" fill="#fff"/>
     <g id="bg" transform="translate(-611.223 -84.317)" style="isolation: isolate">
       <path id="Ellipse_6" data-name="Ellipse 6" d="M0,581.184C-1.1,259.237,222.075-.966,498.48,0s501.37,262.743,502.474,584.689S778.886,1166.844,502.48,1165.875,1.109,903.13,0,581.184Z" transform="translate(183.712 868.361) rotate(9.066)" fill="url(#radial-gradient)" style="isolation: isolate"/>
       <path id="Ellipse_9" data-name="Ellipse 9" d="M0,581.184C-1.1,259.237,222.075-.966,498.48,0s501.37,262.743,502.474,584.689S778.886,1166.844,502.48,1165.875,1.109,903.13,0,581.184Z" transform="translate(1844.678 2805.361) rotate(9.066)" fill="url(#radial-gradient-2)" style="isolation: isolate"/>
@@ -57,7 +57,7 @@
       <g id="navigation" transform="translate(413 16.108)" style="isolation: isolate">
         <g id="Frame_2" data-name="Frame 2" style="isolation: isolate">
           <rect id="Frame_2-2" data-name="Frame 2" width="453" height="30" fill="none" style="isolation: isolate"/>
-          <text id="Home" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Home</tspan></text>
+          <text id="Home" fill="#919191" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Home</tspan></text>
           <text id="Service" transform="translate(123)" fill="#919191" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Service</tspan></text>
           <text id="Over_Ons" data-name="Over Ons" transform="translate(258)" fill="#919191" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Over Ons</tspan></text>
           <text id="Lorem_Ipsum" data-name="Lorem Ipsum" transform="translate(412)" fill="#919191" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Lorem Ipsum</tspan></text>
@@ -65,7 +65,7 @@
           <text id="Lorem_Ipsum-3" data-name="Lorem Ipsum" transform="translate(788)" fill="#919191" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Lorem Ipsum</tspan></text>
           <text id="Lorem_Ipsum-4" data-name="Lorem Ipsum" transform="translate(976)" fill="#919191" font-size="20" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="21">Lorem Ipsum</tspan></text>
         </g>
-        <line id="Line_1" data-name="Line 1" x2="33" transform="translate(1 33.5)" fill="none" stroke="#a0e403" stroke-width="2"/>
+        <line id="Line_1" data-name="Line 1" x2="33" transform="translate(1 33.5)" fill="none" stroke="#a0e403" stroke-width="4"/>
       </g>
     </g>
     <g id="Announcement_bar" data-name="Announcement bar">
@@ -108,13 +108,13 @@
     </g>
     <g id="footer" transform="translate(0 1125.285)" style="isolation: isolate">
       <g id="top" transform="translate(199.858 230)" style="isolation: isolate">
-        <text id="orem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Proin_facilisis_libero_nibh_eu_auctor_justo_finibus_sit_amet._" data-name="orem ipsum dolor sit amet, consectetur adipiscing elit. Proin facilisis libero nibh, eu auctor justo finibus sit amet. " transform="translate(1196.285 79.215)" fill="#919191" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">orem ipsum dolor sit amet, </tspan><tspan x="0" y="46">consectetur adipiscing elit. Proin </tspan><tspan x="0" y="73">facilisis libero nibh, eu auctor justo </tspan><tspan x="0" y="100">finibus sit amet. </tspan></text>
+        <text id="orem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Proin_facilisis_libero_nibh_eu_auctor_justo_finibus_sit_amet._" data-name="orem ipsum dolor sit amet, consectetur adipiscing elit. Proin facilisis libero nibh, eu auctor justo finibus sit amet. " transform="translate(1196.285 79.215)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">orem ipsum dolor sit amet, </tspan><tspan x="0" y="46">consectetur adipiscing elit. Proin </tspan><tspan x="0" y="73">facilisis libero nibh, eu auctor justo </tspan><tspan x="0" y="100">finibus sit amet. </tspan></text>
         <g id="Group_269" data-name="Group 269" transform="translate(0 11.215)">
-          <text id="Lorem_Ipsum-5" data-name="Lorem Ipsum" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
-          <text id="Link" transform="translate(0 43)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-2" data-name="Link" transform="translate(0 85)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-3" data-name="Link" transform="translate(0 127)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-4" data-name="Link" transform="translate(0 169)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Lorem_Ipsum-5" data-name="Lorem Ipsum" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
+          <text id="Link" transform="translate(0 43)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-2" data-name="Link" transform="translate(0 85)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-3" data-name="Link" transform="translate(0 127)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-4" data-name="Link" transform="translate(0 169)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
         </g>
         <g id="logo-2" data-name="logo" transform="translate(1196.285)" style="isolation: isolate">
           <text id="LoremIpsum-2" data-name="LoremIpsum" transform="translate(80 15)" fill="#a0e403" font-size="24" font-family="Poppins-Black, Poppins" font-weight="800" style="isolation: isolate"><tspan x="0" y="25">LoremIpsum</tspan></text>
@@ -123,25 +123,25 @@
           </g>
         </g>
         <g id="Group_270" data-name="Group 270" transform="translate(190 11.215)">
-          <text id="Lorem_Ipsum-6" data-name="Lorem Ipsum" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
-          <text id="Link-5" data-name="Link" transform="translate(0 43)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-6" data-name="Link" transform="translate(0 85)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-7" data-name="Link" transform="translate(0 127)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-8" data-name="Link" transform="translate(0 169)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Lorem_Ipsum-6" data-name="Lorem Ipsum" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
+          <text id="Link-5" data-name="Link" transform="translate(0 43)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-6" data-name="Link" transform="translate(0 85)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-7" data-name="Link" transform="translate(0 127)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-8" data-name="Link" transform="translate(0 169)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
         </g>
         <g id="Group_271" data-name="Group 271" transform="translate(380 11.215)">
-          <text id="Lorem_Ipsum-7" data-name="Lorem Ipsum" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
-          <text id="Link-9" data-name="Link" transform="translate(0 43)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-10" data-name="Link" transform="translate(0 85)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-11" data-name="Link" transform="translate(0 127)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-12" data-name="Link" transform="translate(0 169)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Lorem_Ipsum-7" data-name="Lorem Ipsum" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
+          <text id="Link-9" data-name="Link" transform="translate(0 43)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-10" data-name="Link" transform="translate(0 85)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-11" data-name="Link" transform="translate(0 127)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-12" data-name="Link" transform="translate(0 169)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
         </g>
         <g id="Group_272" data-name="Group 272" transform="translate(570 11.215)">
-          <text id="Lorem_Ipsum-8" data-name="Lorem Ipsum" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
-          <text id="Link-13" data-name="Link" transform="translate(0 43)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-14" data-name="Link" transform="translate(0 85)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-15" data-name="Link" transform="translate(0 127)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
-          <text id="Link-16" data-name="Link" transform="translate(0 169)" fill="rgba(255,255,255,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Lorem_Ipsum-8" data-name="Lorem Ipsum" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Lorem Ipsum</tspan></text>
+          <text id="Link-13" data-name="Link" transform="translate(0 43)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-14" data-name="Link" transform="translate(0 85)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-15" data-name="Link" transform="translate(0 127)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
+          <text id="Link-16" data-name="Link" transform="translate(0 169)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="Poppins-Regular, Poppins" style="isolation: isolate"><tspan x="0" y="19">Link</tspan></text>
         </g>
       </g>
       <g id="lowe" transform="translate(0 547.215)" style="isolation: isolate">
@@ -198,7 +198,7 @@
       <g id="Butto" transform="translate(152 261)">
         <rect id="Elements_Buttons_Secondary_Big_Simple_background" data-name="Elements / Buttons / Secondary / Big / Simple background" width="224" height="50" fill="none"/>
         <g id="Button" transform="translate(0)">
-          <rect id="Base" width="224" height="50" rx="5" transform="translate(0)" fill="#fff" opacity="0.15"/>
+          <rect id="Base" width="224" height="50" rx="5" transform="translate(0)"/>
           <text id="Button_Text" data-name="Button Text" transform="translate(112 31)" fill="#fff" font-size="16" font-family="Heebo-Medium, Heebo" font-weight="500" letter-spacing="-0.022em"><tspan x="-59.083" y="0">Nu vanaf €1/dag!</tspan></text>
         </g>
       </g>
@@ -210,7 +210,7 @@
         </g>
       </g>
       <text id="And_then_there_was_P-2" data-name="And then there was P" fill="#a0e403" font-size="54" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="-0.047em"><tspan x="0" y="57">De Beste Car Dealer</tspan><tspan x="0" y="129">van Nederland</tspan></text>
-      <text id="A_transformative_tri" data-name="A transformative tri" transform="translate(0 165)" fill="#fff" font-size="16" font-family="Heebo-Regular, Heebo" letter-spacing="-0.018em" opacity="0.92"><tspan x="0" y="17">orem ipsum dolor sit amet, consectetur adipiscing elit. Proin facilisis </tspan><tspan x="0" y="49">libero nibh, eu auctor justo finibus sit amet. </tspan></text>
+      <text id="A_transformative_tri" data-name="A transformative tri" transform="translate(0 165)" font-size="16" font-family="Heebo-Regular, Heebo" letter-spacing="-0.018em" opacity="0.92"><tspan x="0" y="17">orem ipsum dolor sit amet, consectetur adipiscing elit. Proin facilisis </tspan><tspan x="0" y="49">libero nibh, eu auctor justo finibus sit amet. </tspan></text>
     </g>
   </g>
 </svg>
